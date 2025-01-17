@@ -12,3 +12,7 @@ Configurando o ambiente virtual com poetry
 Iniciando o ambiente virtual com poetry
 
 >> poetry shell
+
+É possível setar a versão do python a ser utilizada com o poetry
+
+>> poetry env use 3.12.1
